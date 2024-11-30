@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository provides practical examples of four AWS Lambda strategies: sequential, concurrent, batch, and event-driven processing with SQS, showcasing efficient patterns for API and data workflows.
+Practical examples of four AWS Lambda strategies: sequential, concurrent, batch, and event-driven processing with SQS, showcasing efficient patterns for API and data workflows.
 
 ## MVP
 
